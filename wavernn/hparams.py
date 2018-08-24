@@ -1,12 +1,12 @@
 class params:
 
-    batch_size = 10
+    batch_size = 128
     coarse_features = 2
     fine_features = 3
     max_sequence_length = 100
-    cells_detail = [128, 128, 128]
+    cells_detail = [256, 256, 256]
     regression = True
-    hidden_units = 896
+    hidden_units = 256
     output_units = 256
     training_test_ratio = 0.7
     epochs = 1
