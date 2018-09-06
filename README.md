@@ -21,7 +21,7 @@ These points provides an intution about the model, how the model has been implen
 - [ ] Providing support for faster future prediction (On-going)
 - [x] Transfer from notebook based development to OOPS, for better management (WIP)
 - [ ] Sparse Prunification and Sub batched sampling
-- [ ] Vocoder Implementation
+- [x] Vocoder Implementation
 
 
 Please go through the issues, there are many conceptual doubts and I would love to hear opinions on those.
